@@ -35,7 +35,7 @@ my current ratting : unrated
 
 ### 3.) Project Euler
 
-I have solved 3 problems but i will keep note of solution from 3
+I have solved 4 problems but i will keep note of solution from 3
 
 
 ## My Next Target
