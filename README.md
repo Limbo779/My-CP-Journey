@@ -21,7 +21,7 @@ it helps me ton
  
 ### 1.) Codeforces
 
-I have Solved one problem in 800 rating level
+I have Solved two problem in 800 rating level
 
 I have not attended any contest so far
 
