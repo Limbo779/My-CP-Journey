@@ -29,7 +29,7 @@ my current ratting : unrated
 
 ### 2.) Atcoder
 
-I have not attended any contest so far
+I have attended one contest so far
 
 my current ratting : unrated
 
@@ -42,7 +42,7 @@ I have solved 4 problems but i will keep note of solution from 3
 
 ### 1.) Solve Seven Problem , attend a Div 3 contest and upsolve everything in codeforces before 31 July 2025
 
-### 2.) Attend two begginer contest and upsolve everything in Atcoder before 31 July 2025
+### 2.) Attend one begginer contest and upsolve everything in Atcoder before 31 July 2025
 
 ### 3.) Solve Three Problems in Project Euler
 
