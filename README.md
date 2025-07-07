@@ -44,7 +44,5 @@ I have solved 4 problems but i will keep note of solution from 3
 
 ### 2.) Attend one begginer contest and upsolve everything in Atcoder before 31 July 2025
 
-### 3.) Solve Three Problems in Project Euler
-
 #### Thank YOU :)
 
