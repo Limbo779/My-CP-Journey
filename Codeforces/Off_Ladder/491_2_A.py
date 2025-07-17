@@ -1,6 +1,6 @@
 a,b,c,n=list(map(int,input().split(" ")))
 
-if ((a+b-c) < n) and (c==0 or c<=min(a,b)) :#(not (n-a-b+c == 0)):
+if ((a+b-c) < n) and (c==0 or c<=min(a,b)) :
     print(n-a-b+c)
 
 else:
