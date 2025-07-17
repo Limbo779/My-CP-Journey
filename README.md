@@ -11,7 +11,9 @@ this is a ladder made by [priyansh31dec](https://codeforces.com/profile/priyansh
 
 In this ladder there for each rating level there are 31 problem .
 
-i will seperate the problems and contest in codeforces folder by the rating level
+i have seperate folder for problems in ladder and problems not in ladder 
+
+i have seperated the problems and contest in codeforces folder by the rating level
 
 ### 3.) Feel Free to use my code and give me suggestion and point out error
 
