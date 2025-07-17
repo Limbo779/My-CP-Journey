@@ -1,7 +1,7 @@
 a,b,c,n=list(map(int,input().split(" ")))
 
-if ((a+b-c) >= n) and (c>a or c==0) and (c>b or c==0):
-    print(-1)
+if ((a+b-c) < n) and (c==0 or c<=min(a,b)) :#(not (n-a-b+c == 0)):
+    print(n-a-b+c)
 
 else:
-    print(n-a-b+c)
+    print(-1)
