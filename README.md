@@ -25,15 +25,15 @@ it helps me ton
 
 I have Solved two problem in 800 rating level
 
-I have not attended any contest so far
+I have one attended any contest so far and update its progress soon
 
-my current ratting : unrated
+my current ratting : 374
 
 ### 2.) Atcoder
 
 I have attended one contest so far
 
-my current ratting : unrated
+my current ratting : 8 - 16 Kyu
 
 ### 3.) Project Euler
 
