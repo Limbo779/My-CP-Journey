@@ -1,4 +1,4 @@
-# Welcome to my CP Journey
+id# Welcome to my CP Journey
 
 ## Here i will do the following things in this repo
 
@@ -23,15 +23,15 @@ it helps me ton
  
 ### 1.) Codeforces
 
-I have Solved two problem in 800 rating level
+I have Solved two problem in 800 rating level 
 
-I have one attended any contest so far and update its progress soon
+I have one attended one contest and need to upsolve 6 problem 
 
 my current ratting : 374
 
 ### 2.) Atcoder
 
-I have attended one contest so far
+I have attended one contest and need to upsolve 6 problem 
 
 my current ratting : 8 - 16 Kyu
 
@@ -42,9 +42,14 @@ I have solved 4 problems but i will keep note of solution from 3
 
 ## My Next Target
 
-### 1.) Solve Seven Problem , attend a Div 3 contest and upsolve everything in codeforces before 31 July 2025
+### 1.) Solve Seven Problem , attend a Div 3 contest and upsolve everything in codeforces before 31 August 2025
 
-### 2.) Attend one begginer contest and upsolve everything in Atcoder before 31 July 2025
+### 2.) Attend two begginer contest and upsolve everything in Atcoder before 31 August 2025
+
+### 3.) Solve 6 project Euler problem 
+
+### 4.) Solve the pending problem before 31 July 2025
+
 
 #### Thank YOU :)
 
